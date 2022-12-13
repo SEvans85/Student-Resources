@@ -1,0 +1,32 @@
+.top-container {
+    /* background-color: blueviolet; */
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+}
+
+.mid-container {
+    display: flex;
+    align-content: space-evenly;
+    flex-direction: row;
+}
+
+.right-box{
+    padding: 20px;
+    /* background-color: blueviolet; */
+    text-align: center;
+}
+
+.right-box img {
+    width: 400px;
+    border-radius: 10px;
+}
+
+.button-green {
+    background-color: #04AA6D!important;
+    border-radius: 5px;
+    font-size: 27px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-decoration: none;
+    padding: 6px 18px;
+}
