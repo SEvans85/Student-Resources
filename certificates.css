@@ -1,5 +1,5 @@
 .top-container {
-    /* background-color: blueviolet; */
+    background-color: blueviolet;
     font-size: 30px;
     padding: 10px;
     text-align: center;
@@ -13,7 +13,7 @@
 
 .right-box{
     padding: 20px;
-    /* background-color: blueviolet; */
+    background-color: blueviolet;
     text-align: center;
 }
 
